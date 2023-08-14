@@ -17,6 +17,17 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+/* ----------------------------------------
+        Main Style Starts Here
+------------------------------------------- */
+.consultation-btn{
+    background: var(--bg-primary);
+    font-size: 18px;
+}
+.consultation-btn:hover{
+    background:#8b6c45;
+}
 .section-title{
     font-family: EB Garamond;
     font-weight: 800;
