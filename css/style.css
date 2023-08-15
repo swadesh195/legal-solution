@@ -58,3 +58,17 @@ body{
 .line-height{
     line-height: 85px;
 }
+/* Carousel Styles */
+.carousel-indicators {
+    bottom: 60px;
+}
+.carousel-inner{
+    height: 500px;
+}
+.carousel-caption{
+    top: 100px;
+}
+.carousel-description{
+    color: #f3f3f3;
+}
+
