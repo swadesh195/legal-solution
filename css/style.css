@@ -28,8 +28,28 @@ body{
 .consultation-btn:hover{
     background:#8b6c45;
 }
+.banner-area{
+    background-image: url(../images/banner.png);
+    background-position: center center;
+    background-size: cover;
+}
+.overlay{
+    padding: 104px 0;
+    background: linear-gradient(180deg, #111 0%, rgba(17, 17, 17, 0.00) 100%);
+}
+.banner-heading{
+    font-size: 72px;
+    line-height: 85px;
+}
+.banner-description{
+    color: #e7e7e7;
+}
+.banner-input{
+    padding: 19px 314px 19px 20px;
+    line-height: 26px;
+}
 .section-title{
-    font-family: EB Garamond;
+    font-family: 'EB Garamond', serif;
     font-weight: 800;
 }
 .line-height{
