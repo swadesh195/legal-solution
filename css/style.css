@@ -52,6 +52,9 @@ body{
     font-family: 'EB Garamond', serif;
     font-weight: 800;
 }
+.section-description{
+    color: var(--text-primary);
+}
 .line-height{
     line-height: 85px;
 }
