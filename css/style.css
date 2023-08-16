@@ -1,9 +1,13 @@
-/* font family import */
+/********************************************
+            font family import 
+*********************************************/
 
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Poppins:wght@400;600&display=swap');
 
 
-/* root styles */
+/********************************************
+            root styles
+*********************************************/
 
 :root{
     --text-primary: #707070;
@@ -18,9 +22,10 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-/* ----------------------------------------
-        Main Style Starts Here
-------------------------------------------- */
+/********************************************
+            Main style starts here
+*********************************************/
+
 .consultation-btn{
     background: var(--bg-primary);
     font-size: 18px;
@@ -58,7 +63,11 @@ body{
 .line-height{
     line-height: 85px;
 }
-/* Carousel Styles */
+
+/********************************************
+            Carousel Styles 
+*********************************************/
+
 .carousel-indicators {
     bottom: 60px;
 }
@@ -83,3 +92,21 @@ body{
     color: #f3f3f3;
 }
 
+/********************************************
+            The legal practice area styles 
+*********************************************/
+.custom-card{
+    padding: 56px 70px 70px;
+}
+.business-img{
+    width: 71.798px;
+    height: 72.343px;
+}
+.criminal-img{
+    width: 62.899px;
+    height: 72.365px;
+}
+.child-img{
+    width: 73.329px;
+    height: 72.102px;
+}
