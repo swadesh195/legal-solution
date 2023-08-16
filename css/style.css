@@ -64,6 +64,7 @@ body{
 }
 .carousel-inner{
     height: 500px;
+    border-radius: 8px;
 }
 .dark-overlay:after {
     content:"";
