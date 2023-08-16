@@ -98,6 +98,10 @@ body{
 .custom-card{
     padding: 56px 70px 70px;
 }
+.custom-card:hover{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0.00) 100%);
+    overflow: hidden;
+}
 .business-img{
     width: 71.798px;
     height: 72.343px;
