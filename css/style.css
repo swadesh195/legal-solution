@@ -129,7 +129,14 @@ body{
 .footer-color p{
     line-height: 40px;
 }
-.subscribe{
+.subscribe-input{
+    color: #a0a0a0;
+    line-height: 26px;
+}
+.subscribe-input:focus{
+    outline: none;
+}
+.subscribe-btn{
     padding: 21px 35px;
     background-color: var(--bg-primary);
 }
