@@ -13,6 +13,7 @@
     --text-primary: #707070;
     --text-secondary: #B68C5A;
     --text-dark: #414040;
+    --light-gray: #cfcfcf;
     --line-height-85: 85px;
     --font-weight-800 : 800;
     --bg-primary: #B68C5A;
@@ -113,4 +114,22 @@ body{
 .child-img{
     width: 73.329px;
     height: 72.102px;
+}
+
+/***************************************
+        footer styles starts here
+****************************************/
+#footer-area{
+    background-color: #111;
+}
+.footer-style{
+    color: var(--light-gray);
+    line-height: 26px;
+}
+.footer-color p{
+    line-height: 40px;
+}
+.subscribe{
+    padding: 21px 35px;
+    background-color: var(--bg-primary);
 }
