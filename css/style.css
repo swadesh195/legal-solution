@@ -143,3 +143,10 @@ body{
     padding: 21px 35px;
     background-color: var(--bg-primary);
 }
+
+/* **********************************
+        Contact Us Styles
+*********************************** */
+.contact-one-column{
+    padding: 65px 61px;
+}
