@@ -153,3 +153,13 @@ body{
     padding: 21px 35px;
     background-color: var(--bg-primary);
 }
+
+/* *********************************
+        Media Queries Styles
+************************************/
+@media only screen and (max-width: 576px) {
+    .banner-heading{
+        font-size: 40px;
+        line-height: 45px;
+    }
+}
