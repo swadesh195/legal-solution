@@ -162,4 +162,8 @@ body{
         font-size: 40px;
         line-height: 45px;
     }
+    .banner-input{
+        padding: 10px 114px 10px 16px;
+        line-height: 26px;
+    }
 }
