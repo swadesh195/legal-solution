@@ -27,7 +27,7 @@ body{
             Main style starts here
 *********************************************/
 
-.consultation-btn{
+.custom-btn{
     background: var(--bg-primary);
     font-size: 18px;
 }
@@ -119,6 +119,16 @@ body{
     height: 72.102px;
 }
 
+/* **********************************
+        Contact Us Styles
+*********************************** */
+.contact-one-column{
+    padding: 65px 61px;
+}
+.contact-placeholder{
+    line-height: 26px;
+}
+
 /***************************************
         footer styles starts here
 ****************************************/
@@ -142,11 +152,4 @@ body{
 .subscribe-btn{
     padding: 21px 35px;
     background-color: var(--bg-primary);
-}
-
-/* **********************************
-        Contact Us Styles
-*********************************** */
-.contact-one-column{
-    padding: 65px 61px;
 }
