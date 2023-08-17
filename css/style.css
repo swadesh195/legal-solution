@@ -68,16 +68,12 @@ body{
     line-height: 85px;
 }
 
-/********************************************
-            Carousel Styles 
-*********************************************/
+/*****************************************************
+            What our client say carousel styles 
+******************************************************/
 
 .carousel-indicators {
     bottom: 60px;
-}
-.carousel-inner{
-    height: 500px;
-    border-radius: 8px;
 }
 .dark-overlay:after {
     content:"";
@@ -92,7 +88,7 @@ body{
 .carousel-caption{
     top: 100px;
 }
-.carousel-description{
+.carousel-text{
     color: #f3f3f3;
 }
 
@@ -165,5 +161,14 @@ body{
     .banner-input{
         padding: 8px 70px 8px 16px;
         line-height: 26px;
+    }
+    /* **********************************
+            What client say carousel 
+    *************************************/
+    .carousel-caption{
+        top: 0;
+    }
+    .carousel-indicators{
+        bottom: 12px;
     }
 }
