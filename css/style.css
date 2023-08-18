@@ -190,4 +190,8 @@ body{
         font-size: 40px;
         line-height: 45px;
     }
+    .banner-input{
+        padding: 8px 70px 8px 16px;
+        line-height: 26px;
+    }
 }
