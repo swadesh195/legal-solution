@@ -150,9 +150,9 @@ body{
     background-color: var(--bg-primary);
 }
 
-/* *********************************
-        Media Queries Styles
-************************************/
+/* ****************************************
+        Media Queries Styles for mobile 
+*******************************************/
 @media only screen and (max-width: 576px) {
     .banner-heading{
         font-size: 40px;
@@ -179,5 +179,15 @@ body{
     ******************************* */
     .subscribe-btn{
         padding: 12px 24px;
+    }
+}
+
+/********************************************
+        Media queries for table device
+*********************************************/
+@media only screen and (min-width: 577px) and (max-width: 768px) {
+    .banner-heading{
+        font-size: 40px;
+        line-height: 45px;
     }
 }
