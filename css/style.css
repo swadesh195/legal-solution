@@ -171,4 +171,7 @@ body{
     .carousel-indicators{
         bottom: 12px;
     }
+    .contact-one-column{
+        padding: 40px 0;
+    }
 }
