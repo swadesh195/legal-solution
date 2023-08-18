@@ -248,3 +248,8 @@ body{
 /* *********************************************
         Media queries for extra large device
 ************************************************/
+@media only screen and (min-width: 1201px) {
+    .carousel-inner{
+        height: 500px;
+    }
+}
