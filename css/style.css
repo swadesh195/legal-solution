@@ -213,3 +213,13 @@ body{
         padding: 12px 24px;
     }
 }
+
+/* *******************************************
+        Media queries for medium device
+**********************************************/
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+    .banner-input{
+        padding: 16px 70px 16px 16px;
+        line-height: 26px;
+    }
+}
