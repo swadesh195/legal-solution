@@ -183,7 +183,7 @@ body{
 }
 
 /********************************************
-        Media queries for table device
+        Media queries for tablet device
 *********************************************/
 @media only screen and (min-width: 577px) and (max-width: 768px) {
     .banner-heading{
@@ -215,7 +215,7 @@ body{
 }
 
 /* *******************************************
-        Media queries for medium device
+        Media queries for tablet device
 **********************************************/
 @media only screen and (min-width: 769px) and (max-width: 992px) {
     .banner-input{
@@ -224,5 +224,14 @@ body{
     }
     .custom-card{
         padding: 36px 0 50px;
+    }
+}
+
+/* ******************************************
+        Media query for large device device
+**********************************************/
+@media only screen and (min-width: 993px) and (max-width: 1200px) {
+    .banner-input{
+        padding: 16px 160px 16px 16px;
     }
 }
