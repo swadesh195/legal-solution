@@ -194,4 +194,16 @@ body{
         padding: 8px 70px 8px 16px;
         line-height: 26px;
     }
+    /* **********************************
+            What client say carousel 
+    *************************************/
+    .carousel-caption{
+        top: 0;
+    }
+    .carousel-indicators{
+        bottom: 12px;
+    }
+    .contact-one-column{
+        padding: 40px 0;
+    }
 }
