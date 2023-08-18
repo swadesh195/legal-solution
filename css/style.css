@@ -240,4 +240,11 @@ body{
     .contact-one-column{
         padding: 64px 0;
     }
+    .subscribe-btn{
+        padding: 12px 24px;
+    }
 }
+
+/* *********************************************
+        Media queries for extra large device
+************************************************/
