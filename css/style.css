@@ -237,4 +237,7 @@ body{
     .custom-card{
         padding: 36px 10px 50px;
     }
+    .contact-one-column{
+        padding: 64px 0;
+    }
 }
