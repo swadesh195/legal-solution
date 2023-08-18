@@ -206,4 +206,10 @@ body{
     .contact-one-column{
         padding: 40px 0;
     }
+    /* ******************************
+            Footer Styles
+    ******************************* */
+    .subscribe-btn{
+        padding: 12px 24px;
+    }
 }
