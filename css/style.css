@@ -222,4 +222,7 @@ body{
         padding: 16px 70px 16px 16px;
         line-height: 26px;
     }
+    .custom-card{
+        padding: 36px 0 50px;
+    }
 }
